@@ -1,0 +1,8 @@
+- [ ] Make it deploy
+- [ ] Scaffold with some data
+- [ ] Set up database
+- [ ] Attach DB to UI
+- [ ] Add auth
+- [ ] Add upload UI
+- [ ] Routing
+- [ ] Delete button (w/ S actions)  
