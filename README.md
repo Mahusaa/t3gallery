@@ -1,5 +1,5 @@
-- [ ] Make it deploy
-- [ ] Scaffold with some data
+- [x] Make it deploy
+- [x] Scaffold with some data
 - [ ] Set up database
 - [ ] Attach DB to UI
 - [ ] Add auth
