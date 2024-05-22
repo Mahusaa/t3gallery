@@ -2,7 +2,7 @@
 - [x] Scaffold with some data
 - [x] Tidy up build time
 - [x] Set up database
-- [ ] Attach DB to UI
+- [x] Attach DB to UI
 - [ ] Add auth
 - [ ] Add upload UI
 - [ ] Routing
