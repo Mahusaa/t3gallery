@@ -1,7 +1,7 @@
 - [x] Make it deploy
 - [x] Scaffold with some data
 - [x] Tidy up build time
-- [ ] Set up database
+- [x] Set up database
 - [ ] Attach DB to UI
 - [ ] Add auth
 - [ ] Add upload UI
